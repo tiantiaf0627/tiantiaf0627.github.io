@@ -8,10 +8,7 @@ profile:
   align: right
   image: tiantiaf.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>RTH 320</p>
-    <p>3740 McClintock Avenue</p>
-    <p>Los Angeles, CA 90089</p>
+  more_info: 
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
