@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Successfully Defend my Ph.D. thesis. 
+Successfully defend my Ph.D. thesis. 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Receive 2024 ICASSP travel grant
+Receive 2024 ICASSP travel grant!
