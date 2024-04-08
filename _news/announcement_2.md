@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Successfully defended my Ph.D. thesis. 
+Successfully defended my Ph.D. thesis: Generative Foundation Model Assisted Privacy-Enhancing Computing in Human-Centered Machine Intelligence! 
