@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Tiantian's Homepage
 permalink: /
 subtitle: <a href='https://sail.usc.edu/'>SAIL Lab, University of Southern California</a>. tiantiaf@usc.edu
 
