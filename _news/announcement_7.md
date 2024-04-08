@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Oral presentation of my work funded by Amazon research at ACII in MIT Media Lab, Boston - PEFT-SER: On the use of parameter efficient transfer learning approaches for speech emotion recognition using pre-trained speech models!
+Oral presentation of my work funded by Amazon research at ACII 2023 in MIT Media Lab, Boston - PEFT-SER: On the use of parameter efficient transfer learning approaches for speech emotion recognition using pre-trained speech models!
