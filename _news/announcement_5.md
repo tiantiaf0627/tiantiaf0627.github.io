@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be hosting Trustworthy Speech Processing Satellite Workshop at ICASSP 2024, April 15th, 2024 from 2:00 PM to 5:30 PM KST (Room AB203)!
+I will be hosting Trustworthy Speech Processing Satellite Workshop at ICASSP 2024, April 15th, 2024 from 2:00 PM to 5:30 PM KST (Room AB203)! Please join us if you are interested in making speech processing safer, more private, and more inclusive!
