@@ -34,6 +34,9 @@
         {% else %}
           <abbr class="badge">{{ entry.abbr }}</abbr>
         {% endif %}
+      {%- if entry.abbr2 -%}
+          <span class="abbr2 badge">{{entry.abbr2}}</span>
+        {%- endif -%}
       {% endif %}
     </div>
   {% endif %}

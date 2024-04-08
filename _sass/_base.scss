@@ -57,7 +57,7 @@ table.table a {
 
 figure,
 img {
-  max-width: 110vw;
+  max-width: 120vw;
 }
 
 blockquote {
@@ -710,6 +710,31 @@ footer.sticky-bottom {
 
           a {
             color: white;
+
+            &:hover {
+              text-decoration: none;
+            }
+          }
+        }
+
+        .award {
+          color: var(--global-theme-color) !important;
+          border: 1px solid var(--global-theme-color);
+        }
+      }
+
+      .abbr2 {
+        height: 2rem;
+        margin-bottom: 0.5rem;
+
+        abbr {
+          display: inline-block;
+          background-color: white;
+          padding-left: 1rem;
+          padding-right: 1rem;
+
+          a {
+            color: var(--global-theme-color);
 
             &:hover {
               text-decoration: none;
