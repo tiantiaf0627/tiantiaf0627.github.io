@@ -89,14 +89,14 @@
   "projects": [
     {
       "name": "Detecting and mapping stress patterns across space and time: Multimodal modeling of individuals in real-world physical and social work environments",
-      "summary": "Sponsored by: NSF Smart Connected Health. Through our work, we aim to generate new analytic models to uncover and map the patterns and pathways that influence work-related stress to understand the primary contributing factors to stress across space and time. The project will develop methods for integrating different data types from the physical and social environment (e.g., temperature, lighting, conversational tones), physiology (e.g., heart rate data, electrodermal activity, movement), and personal experiences (e.g., ecologic momentary assessment) to identify patterns that inform personalized solutions for improving self-awareness and managing work-related health and well-being. We will develop individually contextualized understandings of stress among office workers using machine learning methods that incorporate heterogeneous and noisy multimodal data streams at multiple temporal resolutions while enabling the unsupervised discovery of behavioral routines.",
+      "summary": "Sponsored by: NSF Smart Connected Health.\nThrough our work, we aim to generate new analytic models to uncover and map the patterns and pathways that influence work-related stress to understand the primary contributing factors to stress across space and time. The project will develop methods for integrating different data types from the physical and social environment (e.g., temperature, lighting, conversational tones), physiology (e.g., heart rate data, electrodermal activity, movement), and personal experiences (e.g., ecologic momentary assessment) to identify patterns that inform personalized solutions for improving self-awareness and managing work-related health and well-being. We will develop individually contextualized understandings of stress among office workers using machine learning methods that incorporate heterogeneous and noisy multimodal data streams at multiple temporal resolutions while enabling the unsupervised discovery of behavioral routines.",
       "highlights": ["Wearables", "Natural Human Understanding"],
       "startDate": "2023",
       "endDate": "Present"
     },
     {
       "name": "EDA and Sensor Fusion for Fatigue/Affective State Detection",
-      "summary": "Sponsored by: Toyota Research Institute North America (TRINA). Sensor analysis and fusion for detecting human states and affect is a challenging open problem in ubiquitous computing research, as well as a popular milestone for the automobile industry. The use of driver assistance systems has become increasingly popular due to advances in Artificial Intelligence, with the aim of improving road safety and reducing the number of accidents caused by human error. Despite their great potential, the deployment of such technologies is still at infant stage, especially when considering the driver’s affective state, which can greatly impact driving performance. This project aims to address this issue by developing systems and improving the performance of affective state detection in driving with the use of multimodal biometric sensor information, such as EDA, ECG, PPG, and respiration.",
+      "summary": "Sponsored by: Toyota Research Institute North America (TRINA).\nSensor analysis and fusion for detecting human states and affect is a challenging open problem in ubiquitous computing research, as well as a popular milestone for the automobile industry. The use of driver assistance systems has become increasingly popular due to advances in Artificial Intelligence, with the aim of improving road safety and reducing the number of accidents caused by human error. Despite their great potential, the deployment of such technologies is still at infant stage, especially when considering the driver’s affective state, which can greatly impact driving performance. This project aims to address this issue by developing systems and improving the performance of affective state detection in driving with the use of multimodal biometric sensor information, such as EDA, ECG, PPG, and respiration.",
       "highlights": ["Biosignal", "Natural Human Understanding"],
       "startDate": "2022",
       "endDate": "Present"
@@ -117,7 +117,7 @@
     },
     {
       "name": "USC-Amazon Reseach Award on Trustworthiness Computing",
-      "summary": "Explore trustworthiness of modern foundation models and on-device learning",
+      "summary": "Sponsored by: Amazon.\nExplore trustworthiness of modern foundation models and on-device learning",
       "highlights": ["Federated Learning", "Generative AI", "Foundation Model"],
       "startDate": "2021",
       "endDate": "2023"
