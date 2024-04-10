@@ -9,10 +9,8 @@ profile:
   image: tiantiaf.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>This amazing picture was taken by my wife</p>
-    <p>at Skyline Trail, Mount Rainier, 2023</p>
-    <p>PS: Prepare enough water for this trail, </p>
-    <p>but make sure you are not the one carrying it.</p>
+    <p>This amazing picture was taken by my wife at Skyline Trail, Mount Rainier, 2023.</p>
+    <p>PS: Prepare enough water for this trail but make sure you are not the one carrying it.</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
