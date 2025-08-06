@@ -16,6 +16,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+(I am on a unique parental leaving situation, and I would be having limited bandwidth to respond your emails till October/November. Sorry that if I cannot respond your email in a timely manner.)
 
 My name is Tiantian Feng, and I grew up in Leshan, China, which is famously for Leshan Giant Buddha. I studied both in Chengdu (both middle school and high school at Chengdu Foreign Language School) and Nanjing (Nanjing University of Posts and Telecommunications, undergraduate). I obtained my master degree at the University of Southern California afterwards. I recently completed my Ph.D. in the Thomas Lord Department of Computer Science at University of Southern California in 2023. I am fortunate to be advised by Professor Shrikanth Narayanan, a globally recognized scientist in speech modeling, linguistics, affective computing, and human understanding. 
 
