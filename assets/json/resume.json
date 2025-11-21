@@ -19,7 +19,6 @@
     {
       "name": "University of Southern California",
       "position": "Postdocal Researcher",
-      "url": "https://sail.usc.edu/",
       "startDate": "Apr 2024",
       "endDate": "Present"
     },
@@ -43,6 +42,16 @@
     }
   ],
   "awards": [
+    {
+      "title": "First Place - Speech Emotion Recognition in Naturalistic Conditions Challenge Track 2",
+      "date": "2025",
+      "awarder": "INTERSPEECH"
+    },
+    {
+      "title": "Second Place - Speech Emotion Recognition in Naturalistic Conditions Challenge Track 1",
+      "date": "2025",
+      "awarder": "INTERSPEECH"
+    },
     {
       "title": "ICASSP Travel Grant",
       "date": "2024",
@@ -87,6 +96,34 @@
     }
   ],
   "projects": [
+  {
+      "name": "Multilingualism as a factor of resilience to Alzheimer's disease and related dementias in India",
+      "summary": "Sponsored by: NIH.",
+      "highlights": ["Speech Processing", "Wearables"],
+      "startDate": "2024",
+      "endDate": "Present"
+    },
+    {
+      "name": "Everyday Respect: Measuring & Improving Police Officer Communication",
+      "summary": "Sponsored by: NSF.\nThis project combines detailed survey and interview-based research into stakeholder perspectives and preferences on officer communication, a community-led process to refine research objectives in our analysis of communication during motor vehicle stops with sophisticated human annotation and ML measurement of communication using audio, CPS-3 of 4 video, and personnel data that are rarely shared with outside researchers.",
+      "highlights": ["Speech Processing"],
+      "startDate": "2025",
+      "endDate": "Present"
+    },
+    {
+      "name": "SADIRI: Stylometric Authorship Discernment and Interpretation for Realistic Inputs",
+      "summary": "Sponsored by: IARPA HIATUS.\nDeveloping methods for for effective, explainable, and multi-lingual authorship attribution and privacy protection particularly in spoken language dialogues.",
+      "highlights": ["Speech Processing"],
+      "startDate": "2025",
+      "endDate": "Present"
+    },
+    {
+      "name": "ARTS: Anonymous Real-Time Speech",
+      "summary": "Sponsored by: IARPA ARTS.\nDeveloping real time speech annoymization system.",
+      "highlights": ["Speech Processing"],
+      "startDate": "2024",
+      "endDate": "Present"
+    },
     {
       "name": "Detecting and mapping stress patterns across space and time: Multimodal modeling of individuals in real-world physical and social work environments",
       "summary": "Sponsored by: NSF Smart Connected Health.\nThrough our work, we aim to generate new analytic models to uncover and map the patterns and pathways that influence work-related stress to understand the primary contributing factors to stress across space and time. The project will develop methods for integrating different data types from the physical and social environment (e.g., temperature, lighting, conversational tones), physiology (e.g., heart rate data, electrodermal activity, movement), and personal experiences (e.g., ecologic momentary assessment) to identify patterns that inform personalized solutions for improving self-awareness and managing work-related health and well-being. We will develop individually contextualized understandings of stress among office workers using machine learning methods that incorporate heterogeneous and noisy multimodal data streams at multiple temporal resolutions while enabling the unsupervised discovery of behavioral routines.",
