@@ -43,12 +43,12 @@
   ],
   "awards": [
     {
-      "title": "First Place - Speech Emotion Recognition in Naturalistic Conditions Challenge Track 2",
+      "title": "1st Place - Speech Emotion Recognition in Naturalistic Conditions Challenge Track 2",
       "date": "2025",
       "awarder": "INTERSPEECH"
     },
     {
-      "title": "Second Place - Speech Emotion Recognition in Naturalistic Conditions Challenge Track 1",
+      "title": "2nd Place - Speech Emotion Recognition in Naturalistic Conditions Challenge Track 1",
       "date": "2025",
       "awarder": "INTERSPEECH"
     },
@@ -132,17 +132,17 @@
       "endDate": "Present"
     },
     {
-      "name": "EDA and Sensor Fusion for Fatigue/Affective State Detection",
-      "summary": "Sponsored by: Toyota Research Institute North America (TRINA).\nSensor analysis and fusion for detecting human states and affect is a challenging open problem in ubiquitous computing research, as well as a popular milestone for the automobile industry. The use of driver assistance systems has become increasingly popular due to advances in Artificial Intelligence, with the aim of improving road safety and reducing the number of accidents caused by human error. Despite their great potential, the deployment of such technologies is still at infant stage, especially when considering the driver’s affective state, which can greatly impact driving performance. This project aims to address this issue by developing systems and improving the performance of affective state detection in driving with the use of multimodal biometric sensor information, such as EDA, ECG, PPG, and respiration.",
-      "highlights": ["Biosignal", "Natural Human Understanding"],
-      "startDate": "2022",
-      "endDate": "Present"
-    },
-    {
       "name": "SFARI: Multimodal, objective assessment of the ASD phenotype: Longitudinal stability and change across contexts",
       "summary": "Sponsored by: Simons Foundations",
       "highlights": ["Autism", "Natural Human Understanding", "Speech"],
       "startDate": "2024",
+      "endDate": "Present"
+    },
+    {
+      "name": "EDA and Sensor Fusion for Fatigue/Affective State Detection",
+      "summary": "Sponsored by: Toyota Research Institute North America (TRINA).\nSensor analysis and fusion for detecting human states and affect is a challenging open problem in ubiquitous computing research, as well as a popular milestone for the automobile industry. The use of driver assistance systems has become increasingly popular due to advances in Artificial Intelligence, with the aim of improving road safety and reducing the number of accidents caused by human error. Despite their great potential, the deployment of such technologies is still at infant stage, especially when considering the driver’s affective state, which can greatly impact driving performance. This project aims to address this issue by developing systems and improving the performance of affective state detection in driving with the use of multimodal biometric sensor information, such as EDA, ECG, PPG, and respiration.",
+      "highlights": ["Biosignal", "Natural Human Understanding"],
+      "startDate": "2022",
       "endDate": "Present"
     },
     {
