@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work on Speech Emotion Recognition has won the 1st place in 2025 INTERSPEECH Speech Emotion Recognition Challenge!
+Our work on [Speech Emotion Recognition](https://www.isca-archive.org/interspeech_2025/lertpetchpun25_interspeech.pdf) has won the 1st place in 2025 INTERSPEECH Speech Emotion Recognition Challenge - Task2!

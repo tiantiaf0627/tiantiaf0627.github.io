@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-11-23 11:59:00-0400
+date: 2025-11-14 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Our [Voxlect](https://arxiv.org/abs/2508.01691) benchmark has been accepted to 2026 KDD Dataset and Benchmark track, congratulations to all co-authors!
+I will be giving an invited talk to THE Ohio State University [Talk Details](https://cse.osu.edu/events/2025/11/toward-human-centered-computing-behavioral-understanding-healthcare-applications)!

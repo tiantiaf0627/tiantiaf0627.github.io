@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-12-10 16:00:00-0400
+date: 2025-11-23 11:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I will give a talk on-[Developing Robust Speaker Diarization for Child-Adult Dyadic Interaction](https://asru-ai4csl.github.io/Official-Website/speakers/) in ASRU 2025 Satellite Workshop-AI for Children's Speech and Language!
+Our [Voxlect](https://arxiv.org/abs/2508.01691) benchmark has been accepted to 2026 KDD Dataset and Benchmark track, congratulations to all co-authors!
