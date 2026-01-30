@@ -753,6 +753,31 @@ footer.sticky-bottom {
         }
       }
 
+      .abbr3 {
+        height: 2rem;
+        margin-bottom: 0.5rem;
+
+        abbr {
+          display: inline-block;
+          background-color: #0076df;
+          padding-left: 1rem;
+          padding-right: 1rem;
+
+          a {
+            color: white;
+
+            &:hover {
+              text-decoration: none;
+            }
+          }
+        }
+
+        .award {
+          color: var(--global-theme-color) !important;
+          border: 1px solid var(--global-theme-color);
+        }
+      }
+
       .title {
         font-weight: bolder;
       }
