@@ -2,7 +2,7 @@
 layout: about
 title: Tiantian's Homepage
 permalink: /
-subtitle: <a href='https://sail.usc.edu/'>SAIL Lab, University of Southern California</a>. tiantiaf@usc.edu
+subtitle: <a href='https://sail.usc.edu/'>SAIL Lab, University of Southern California</a>. tiantiaf@usc.edu (till end of 2026), tiantiaf@gmail.com
 
 profile:
   align: right
@@ -16,15 +16,18 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-(I am on a unique parental leaving situation, and I would be having limited bandwidth to respond your emails till October/November. Sorry that if I cannot respond your email in a timely manner.)
 
-My name is Tiantian Feng, and I grew up in Leshan, China, which is famously for Leshan Giant Buddha. I recently completed my Ph.D. in the Thomas Lord Department of Computer Science at University of Southern California in 2024, and I am currently a postdoc researcher in SAIL lab at USC. I am fortunate to be advised by Professor Shrikanth Narayanan, a globally recognized scientist in speech modeling, linguistics, affective computing, and human understanding. 
+My name is Tiantian Feng, and I grew up in Leshan, China, which is famously for Leshan Giant Buddha. I completed my Ph.D. in the Thomas Lord Department of Computer Science at University of Southern California in 2024, and I am currently a postdoc researcher in SAIL lab at USC. I am fortunate to be advised by Professor Shrikanth Narayanan, a globally recognized scientist in speech modeling, linguistics, affective computing, and human understanding. 
 
 
-My research focuses on leveraging sensors and computational methods for understanding natural human behaviors in healthcare applications across life span. Notably, I have involved in projects studying children with autism, aging population with cognitive decline, mental health (e.g. Postpartum depression (PPD)), people with hearing loss, and workplace behavior of hospital professionals. My vision is to develop full-stack AI technology that explores sensings, learning, understanding, and assisting human in a wide range of healthcare-centered applications. 
+I will be soon joining the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen) as an assistant professor, and I am activity recruiting prospective students to join my research group. Feel free to send me your information at tiantiaf@gmail.com.
+
+
+My research is about AI+Human Lifespan+Digital Health, and my approach is full-stack AI that includes sensor technology, machine learning, and human experiences to understand natural human conditions in healthcare applications across life span. Notably, I have involved in projects studying children with autism, workplace behavior of hospital professionals, aging population with cognitive decline, people with hearing loss, and mental health (e.g. Postpartum depression (PPD)).
+
 
 I also have a particular interest in building technology that is private and broadly accessible. I have been focused on developing datasets and benchmark that are shareable across different community. My research invovles applications such as speech understanding, wearable computing, multimodal understanding, and bio-signal processing, etc. Additionally, I have hands-on experience in industrial sensor design and deploying sensors in research studies. I have interned at both Meta and Amazon as the research scientist. 
 
-I am actively looking for tenure-track or similar positions in academia. Don't hesitate to contact me if you would like to collaborate.
+Don't hesitate to contact me if you would like to collaborate.
 
 
