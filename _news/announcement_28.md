@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am excited to share that out paper "Capspeech: Enabling downstream applications in style-captioned text-to-speech" has been accepted to IEEE Transactions on Audio, Speech and Language Processing.
+I am excited to share that our paper "Capspeech: Enabling downstream applications in style-captioned text-to-speech" has been accepted to IEEE Transactions on Audio, Speech and Language Processing.
