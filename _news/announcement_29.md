@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am excited to share that out new preprint "[ChildVox](https://arxiv.org/abs/2605.29257): A Speech, Audio, and Large Audio-Language Model Benchmark in Understanding and Characterizing Sound across Childhood". (see [project page](https://tiantiaf0627.github.io/childvox/))
+I am excited to share that our new preprint "[ChildVox: A Speech, Audio, and Large Audio-Language Model Benchmark in Understanding and Characterizing Sound across Childhood](https://arxiv.org/abs/2605.29257)". (see [project page](https://tiantiaf0627.github.io/childvox/))
